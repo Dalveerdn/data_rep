@@ -1,0 +1,563 @@
+Unnamed: 0,source_name,front_end_name,state_name,country_name,source_url
+0,MontgomeryCounty,Montgomery County,Maryland,United States of America,https://www.bidnetdirect.com/maryland/montgomerycounty
+1,MontgomeryCountyDepartmentofTransportation,Montgomery County Department of Transportation,Maryland,United States of America,https://www.bidnetdirect.com/maryland/montgomerycountydot
+2,MontgomeryCountyRealProperty,Montgomery County Real Property,Maryland,United States of America,https://www.bidnetdirect.com/maryland/montgomerycountyrealproperty
+3,UnionBaptistHeadStart,Union Baptist Head Start,Maryland,United States of America,https://www.bidnetdirect.com/maryland/unionbaptistheadstart
+4,CarterCountyTN,Carter County TN,Tennessee,United States of America,https://www.bidnetdirect.com/tennessee/cartercountytn
+5,CityofKnoxville,City of Knoxville,Tennessee,United States of America,https://www.bidnetdirect.com/tennessee/cityofknoxville
+6,Hartsville/TrousdaleCounty,Hartsville/Trousdale County,Tennessee,United States of America,https://www.bidnetdirect.com/tennessee/hartsvilletrousdalecounty
+7,NewportUtilities,Newport Utilities,Tennessee,United States of America,https://www.bidnetdirect.com/tennessee/newportutilities
+8,HiloMedicalCenter,Hilo Medical Center,Hawaii,United States of America,https://www.bidnetdirect.com/hawaii/hilomedicalcenter
+9,AbilitiesFirst,Abilities First,New York,United States of America,https://www.bidnetdirect.com/new-york/abilitiesfirstny
+10,AlbanyCounty,Albany County,New York,United States of America,https://www.bidnetdirect.com/new-york/albany-county
+11,AlbanyCountyAirportAuthority,Albany County Airport Authority,Albany County,United States of America,https://www.bidnetdirect.com/new-york/albany-county-airport-authority
+12,AlbanyPortDistrictCommission,Albany Port District Commission,New York,United States of America,https://www.bidnetdirect.com/new-york/albanyportdistrictcommission
+13,AlfredUniversity,Alfred University,New York,United States of America,https://www.bidnetdirect.com/new-york/alfred
+14,ArlingtonCentralSchoolDistrict,Arlington Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/arlingtonschools
+15,BedfordCentralSchoolDistrict,Bedford Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/bedfordcentralschooldistrict
+16,BerlinCentralSchoolDistrict,Berlin Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/berlincentral
+17,Berne-Knox-WesterloCSD,Berne-Knox-Westerlo CSD,New York,United States of America,https://www.bidnetdirect.com/new-york/berneknoxwesterlo-csd
+18,BrewsterCentralSchools,Brewster Central Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/brewster-central-schools
+19,BroomeCounty,Broome County,New York,United States of America,https://www.bidnetdirect.com/new-york/broome-county
+20,BroomeCountyLandBank,Broome County Land Bank,New York,United States of America,https://www.bidnetdirect.com/new-york/broome-county-land-bank
+21,Broome-TiogaBOCES,Broome-Tioga BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/btboces
+22,CapitalRegionBOCES,Capital Region BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/capital-region-boces
+23,CatskillCentralSchoolDistrict,Catskill Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/catskillcentralschooldistrict
+24,CatskillPublicLibrary,Catskill Public Library,New York,United States of America,https://www.bidnetdirect.com/new-york/catskillpubliclibrary
+25,Cattaraugus-AlleganyBOCES,Cattaraugus - Allegany BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/cattaraugus-allegany-boces
+26,CayugaCounty,Cayuga County,New York,United States of America,https://www.bidnetdirect.com/new-york/cayuga-county
+27,ChappaquaSchools,Chappaqua Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/chappaquaschools
+28,CharterSchoolofEducationalExcellence,Charter School of Educational Excellence,New York,United States of America,https://www.bidnetdirect.com/new-york/charter-school-of-educational-excellence
+29,ChautauquaCounty,Chautauqua County,New York,United States of America,https://www.bidnetdirect.com/new-york/chautauqua-county
+30,ChemungCounty/CityofElmira,Chemung County/City of Elmira,New York,United States of America,https://www.bidnetdirect.com/new-york/chemung-countycity-of-elmira
+31,ChenangoForksSchoolDistrict,Chenango Forks School District,New York,United States of America,https://www.bidnetdirect.com/new-york/chenangoforksschooldistrict
+32,CityofAlbany,City of Albany,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-albany
+33,CityofAmsterdam,City of Amsterdam,New York,United States of America,https://www.bidnetdirect.com/new-york/amsterdamny
+34,CityofBatavia,City of Batavia,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-batavia
+35,CityofBeacon,City of Beacon,New York,United States of America,https://www.bidnetdirect.com/new-york/cityofbeacon
+36,CityofCohoes,City of Cohoes,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-cohoes
+37,CityofGlenCove,City of Glen Cove,New York,United States of America,https://www.bidnetdirect.com/new-york/cityofglencove
+38,CityofJamestown,City of Jamestown,New York,United States of America,https://www.bidnetdirect.com/new-york/jamestownny
+39,CityofJamestown-DepartmentofDevelopment,City of Jamestown - Department of Development,New York,United States of America,https://www.bidnetdirect.com/new-york/jamestownnydod
+40,CityofJamestown-DepartmentofPublicWorks,City of Jamestown - Department of Public Works,New York,United States of America,https://www.bidnetdirect.com/new-york/jamestownnydpw
+41,CityofJamestown-PoliceDepartment,City of Jamestown - Police Department,New York,United States of America,https://www.bidnetdirect.com/new-york/jamestownnypd
+42,CityofKingston,City of Kingston,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-kingston
+43,CityofLongBeachNewYork,City of Long Beach New York,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-long-beach-new-york
+44,CityofMountVernon,City of Mount Vernon,New York,United States of America,https://www.bidnetdirect.com/new-york/cmvny
+45,CityofMountVernon-BuildingsDepartment,City of Mount Vernon - Buildings Department,New York,United States of America,https://www.bidnetdirect.com/new-york/cityofmountvernonbuildingsdepartment
+46,CityofMountVernon-DepartmentofPlanning&CommunityDevelopment,City of Mount Vernon - Department of Planning & Community Development,New York,United States of America,https://www.bidnetdirect.com/new-york/departmenttofplanningcommunitydevelopment
+47,CityofMountVernon-ManagementServices,City of Mount Vernon - Management Services,New York,United States of America,https://www.bidnetdirect.com/new-york/cmvnymanagementservices
+48,CityofNewRochelle,City of New Rochelle,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-new-rochelle
+49,CityofNewburgh,City of Newburgh,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-newburgh
+50,CityofNiagaraFalls,City of Niagara Falls,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-niagara-falls
+51,CityofOneonta,City of Oneonta,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-oneonta
+52,CityofPeekskill,City of Peekskill,New York,United States of America,https://www.bidnetdirect.com/new-york/cityofpeekskill
+53,CityofPoughkeepsie,City of Poughkeepsie,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-poughkeepsie
+54,CityofRensselaer,City of Rensselaer,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-rensselaer
+55,CityofRochester,City of Rochester,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-rochester
+56,CityofRome,City of Rome,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-rome
+57,CityofRye,City of Rye,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-rye
+58,CityofSchenectady,City of Schenectady,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-schenectady
+59,CityofTroy-NY,City of Troy - NY,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-troy-ny
+60,CityofWatertown,City of Watertown,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-watertown
+61,CityofYonkers/YonkersPublicSchools,City of Yonkers/Yonkers Public Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/city-of-yonkersyonkers-public-schools
+62,CitySchoolDistrictofAlbany,City School District of Albany,New York,United States of America,https://www.bidnetdirect.com/new-york/city-school-district-of-albany
+63,CitySchoolDistrictofNewRochelle,City School District of New Rochelle,New York,United States of America,https://www.bidnetdirect.com/new-york/city-school-district-of-new-rochelle
+64,ClarkstownCentralSchoolDistrict,Clarkstown Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/clarkstown-central-school-district
+65,ClintonCounty,Clinton County,New York,United States of America,https://www.bidnetdirect.com/new-york/clintoncounty
+66,CohoesHousingAuthority,Cohoes Housing Authority,New York,United States of America,https://www.bidnetdirect.com/new-york/cohoes-housing-authority
+67,ColumbiaCounty,Columbia County,New York,United States of America,https://www.bidnetdirect.com/new-york/columbiacountyny
+68,CommunityActionPartnershipforDutchessCounty,Community Action Partnership for Dutchess County,New York,United States of America,https://www.bidnetdirect.com/new-york/dutchesscap
+69,CommunityServicesfortheDevelopmentallyDisabled,Community Services for the Developmentally Disabled,New York,United States of America,https://www.bidnetdirect.com/new-york/community-services-for-the-developmentally-disabled
+70,ConnetquotCSD,Connetquot CSD,New York,United States of America,https://www.bidnetdirect.com/new-york/connetquot-csd
+71,CooperativeBidService-CapitalRegionBOCES,Cooperative Bid Service - Capital Region BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/cooperative-bid-service-capital-region-boces
+72,CornellCooperativeExtensionDutchessCounty,Cornell Cooperative Extension Dutchess County,New York,United States of America,https://www.bidnetdirect.com/new-york/cornell-cooperative-extension-dutchess-county
+73,CountyofDutchess,County of Dutchess,New York,United States of America,https://www.bidnetdirect.com/new-york/county-of-dutchess
+74,CountyofOrange-DepartmentofGeneralServices,County of Orange - Department of General Services,New York,United States of America,https://www.bidnetdirect.com/new-york/county-of-orange
+75,CountyofRockland,County of Rockland,New York,United States of America,https://www.bidnetdirect.com/new-york/county-of-rockland
+76,CountyofUlster,County of Ulster,New York,United States of America,https://www.bidnetdirect.com/new-york/county-of-ulster
+77,Croton-HarmonSchools,Croton-Harmon Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/chufsd
+78,DeerParkUnionFreeSchoolDistrict,Deer Park Union Free School District,New York,United States of America,https://www.bidnetdirect.com/new-york/deer-park-union-free-school-district
+79,Delaware-Chenango-Madison-OtsegoBOCES,Delaware-Chenango-Madison-Otsego BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/delawarechenangomadisonotsego-boces
+80,DobbsFerrySchoolDistrict,Dobbs Ferry School District,New York,United States of America,https://www.bidnetdirect.com/new-york/dfsd
+81,DoverPlainsLibrary,Dover Plains Library,New York,United States of America,https://www.bidnetdirect.com/new-york/doverplainslibrary
+82,DutchessBOCES,Dutchess BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/dutchess-boces
+83,DutchessCommunityCollege,Dutchess Community College,New York,United States of America,https://www.bidnetdirect.com/new-york/dutchess-community-college
+84,DutchessCountyPlanningandDevelopment,Dutchess County Planning and Development,New York,United States of America,https://www.bidnetdirect.com/new-york/dutchess-county-community-investment-programs
+85,DutchessCountyResourceRecoveryAgency,Dutchess County Resource Recovery Agency,New York,United States of America,https://www.bidnetdirect.com/new-york/dutchess-county-resource-recovery-agency
+86,DutchessCountySPCA,Dutchess County SPCA,New York,United States of America,https://www.bidnetdirect.com/new-york/dcspca
+87,DutchessCountyWaterandWastewaterAuthority,Dutchess County Water and Wastewater Authority,New York,United States of America,https://www.bidnetdirect.com/new-york/dutchess-county-water-and-wastewater-authority
+88,EastIrondequoitCentralSchoolDistrict,East Irondequoit Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/east-irondequoit-central-school-district
+89,EastIslipSchoolDistrict,East Islip School District,New York,United States of America,https://www.bidnetdirect.com/new-york/east-islip-school-district
+90,EastRamapoCentralSchoolDistrict,East Ramapo Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/east-ramapo-central-school-district
+91,EastchesterFireDistrict,Eastchester Fire District,New York,United States of America,https://www.bidnetdirect.com/new-york/eastchesterfd
+92,EasternSuffolkBOCES,Eastern Suffolk BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/eastern-suffolk-boces
+93,EldredCentralSchoolDistrict,Eldred Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/eldred-central-school-district
+94,EllicottvilleFireDistrict,Ellicottville Fire District,New York,United States of America,https://www.bidnetdirect.com/new-york/ellicottvillefiredistrict
+95,ElmiraCollege,Elmira College,New York,United States of America,https://www.bidnetdirect.com/new-york/elmiracollege
+96,ElwoodUnionFreeSchoolDistrict,Elwood Union Free School District,New York,United States of America,https://www.bidnetdirect.com/new-york/elwood-union-free-school-district
+97,EnlargedCitySchoolDistrictofMiddletown,Enlarged City School District of Middletown,New York,United States of America,https://www.bidnetdirect.com/new-york/enlarged-city-school-district-of-middletown
+98,EnlargedCitySchoolDistrictofTroy,Enlarged City School District of Troy,New York,United States of America,https://www.bidnetdirect.com/new-york/enlarged-city-school-district-of-troy
+99,Erie1BOCES,Erie 1 BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/erie-1-boces
+100,Erie2-Chautauqua-CattaraugusBOCES,Erie 2-Chautauqua-Cattaraugus BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/erie-2chautauquacattaraugus-boces
+101,ErieCommunityCollege,Erie Community College,New York,United States of America,https://www.bidnetdirect.com/new-york/erie-community-college
+102,ErieCounty,Erie County,New York,United States of America,https://www.bidnetdirect.com/new-york/erie-county
+103,EssexCounty,Essex County,New York,United States of America,https://www.bidnetdirect.com/new-york/essexcounty
+104,EzrasChoilimHealthCenter,Ezras Choilim Health Center,New York,United States of America,https://www.bidnetdirect.com/new-york/ezras-choilim-health-center
+105,FairviewFireDistrict,Fairview Fire District,New York,United States of America,https://www.bidnetdirect.com/new-york/fairviewfiredistrict
+106,"FamilyServices,Inc.","Family Services, Inc.",New York,United States of America,https://www.bidnetdirect.com/new-york/familyservicesny
+107,FishkillHistoricalSociety,Fishkill Historical Society,New York,United States of America,https://www.bidnetdirect.com/new-york/fishkillhistoricsociety
+108,Franklin-Essex-HamiltonBOCES,Franklin-Essex-Hamilton BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/fehboces
+109,GarrisonUnionFreeSchoolDistrict,Garrison Union Free School District,New York,United States of America,https://www.bidnetdirect.com/new-york/gufs
+110,GeneseeCommunityCollege,Genesee Community College,New York,United States of America,https://www.bidnetdirect.com/new-york/geneseecommunitycollege
+111,GeneseeCounty,Genesee County,New York,United States of America,https://www.bidnetdirect.com/new-york/genesee-county
+112,GeneseeFingerLakesRegionalPlanningCouncil,Genesee Finger Lakes Regional Planning Council,New York,United States of America,https://www.bidnetdirect.com/new-york/gflrpc
+113,GeneseeValleyBOCES,Genesee Valley BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/genesee-valley-boces
+114,Golden'sBridgeFireDistrict,Golden's Bridge Fire District,New York,United States of America,https://www.bidnetdirect.com/new-york/goldens-bridge-fire-district
+115,GoshenFireDistrict,Goshen Fire District,New York,United States of America,https://www.bidnetdirect.com/new-york/goshen-fire-district
+116,GreatNeckPublicSchools,Great Neck Public Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/greatneckschools
+117,GreaterTompkinsCountyMunicipalHealthInsuranceConsortium,Greater Tompkins County Municipal Health Insurance Consortium,New York,United States of America,https://www.bidnetdirect.com/new-york/tchealthconsortium
+118,GreeceCentralSchoolDistrict,Greece Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/greece-central-school-district
+119,GreenChimneysSchool,Green Chimneys School,New York,United States of America,https://www.bidnetdirect.com/new-york/greenchimneysschool
+120,GreenburghCentralSchoolDistrictNo.7,Greenburgh Central School District No. 7,New York,United States of America,https://www.bidnetdirect.com/new-york/greenburgh-central-school-district-no-7
+121,Greenburgh-NorthCastleUFSD,Greenburgh-North Castle UFSD,New York,United States of America,https://www.bidnetdirect.com/new-york/greenburghnorth-castle-ufsd
+122,GreystonePrograms,Greystone Programs,New York,United States of America,https://www.bidnetdirect.com/new-york/greystoneprograms
+123,HALDANECentralSchoolDistrict,HALDANE Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/haldanecentralschooldistrict
+124,HamiltonHillsArtsCenter,Hamilton Hills Arts Center,New York,United States of America,https://www.bidnetdirect.com/new-york/hamiltonhillsartscenter
+125,HarrisonCentralSchoolDistrict,Harrison Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/harrison-central-school-district
+126,HauppaugePublicSchools,Hauppauge Public Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/hauppauge-public-schools
+127,HerkimerCounty,Herkimer County,New York,United States of America,https://www.bidnetdirect.com/new-york/herkimer-county
+128,HFMBoces,HFM Boces,New York,United States of America,https://www.bidnetdirect.com/new-york/hfm-boces
+129,HudsonRiverHousing,Hudson River Housing,New York,United States of America,https://www.bidnetdirect.com/new-york/hudsonriverhousing
+130,HughsonvilleFireDistrict,Hughsonville Fire District,New York,United States of America,https://www.bidnetdirect.com/new-york/hughsonville-fire-district
+131,HydeParkCentralSchoolDistrict,Hyde Park Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/hyde-park-central-school-district
+132,HydeParkFire&WaterDistrict,Hyde Park Fire & Water District,New York,United States of America,https://www.bidnetdirect.com/new-york/hydeparkfireandwater
+133,Inc.VillageofHempstead,Inc. Village of Hempstead,New York,United States of America,https://www.bidnetdirect.com/new-york/inc-village-of-hempstead
+134,"J.H.KetchamHoseCompany,Inc.","J.H. Ketcham Hose Company, Inc.",New York,United States of America,https://www.bidnetdirect.com/new-york/jhketchamhosecompany
+135,JewishChildCareAssociationJCCA,Jewish Child Care Association JCCA,New York,United States of America,https://www.bidnetdirect.com/new-york/jewish-child-care-association-jcca
+136,KatonahLewisboroSchoolDistrict,Katonah Lewisboro School District,New York,United States of America,https://www.bidnetdirect.com/new-york/klsd
+137,Kinderhook-IchabodCraneSchoolDistrict,Kinderhook-Ichabod Crane School District,New York,United States of America,https://www.bidnetdirect.com/new-york/kinderhookichabodcraneschooldistrict
+138,KingstonCitySchoolDistrict,Kingston City School District,New York,United States of America,https://www.bidnetdirect.com/new-york/kingstoncityschooldistrict
+139,KiryasJoelSchoolDistrict,Kiryas Joel School District,New York,United States of America,https://www.bidnetdirect.com/new-york/kiryas-joel-school-district
+140,LakelandCentralSchoolDistrict,Lakeland Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/lakeland-central-school-district
+141,LandReutilizationoftheCapitalRegion,Land Reutilization of the Capital Region,New York,United States of America,https://www.bidnetdirect.com/new-york/land-reutilization-of-the-capital-region
+142,LiverpoolCentralSchoolDistrict,Liverpool Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/liverpoolcentralschooldistrict
+143,LivingstonCounty,Livingston County,New York,United States of America,https://www.bidnetdirect.com/new-york/livingston-county
+144,LivingstonCountyLandBankCorporation,Livingston County Land Bank Corporation,New York,United States of America,https://www.bidnetdirect.com/new-york/livingstoncountylandbank
+145,LivoniaJointFireDistrict,Livonia Joint Fire District,New York,United States of America,https://www.bidnetdirect.com/new-york/livoniafiredept
+146,LockportCitySchoolDistrict,Lockport City School District,New York,United States of America,https://www.bidnetdirect.com/new-york/lockport-city-school-district
+147,LongBeachPublicSchools,Long Beach Public Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/longbeachpublicschools
+148,LongwoodCentralSchoolDistrict,Longwood Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/longwoodk12ny
+149,MadisonCounty,Madison County,New York,United States of America,https://www.bidnetdirect.com/new-york/madison-county
+150,MahopacCentralSchoolDistrict,Mahopac Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/mahopac-central-school-district
+151,MamaroneckUnionFreeSchoolDistrict,Mamaroneck Union Free School District,New York,United States of America,https://www.bidnetdirect.com/new-york/mamaroneckunionfreeschooldistrict
+152,MaryCariolaChildren'sCenter,Mary Cariola Children's Center,New York,United States of America,https://www.bidnetdirect.com/new-york/marycariolachildrenscenter
+153,MillbrookLibrary,Millbrook Library,New York,United States of America,https://www.bidnetdirect.com/new-york/millbrooklibrary
+154,MohawkValleyCommunityCollege,Mohawk Valley Community College,New York,United States of America,https://www.bidnetdirect.com/new-york/mohawk-valley-community-college
+155,MohonasenCentralSchoolDistrict,Mohonasen Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/mohonasen-central-school-district
+156,Monroe#1BOCES,Monroe #1 BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/monroe-1-boces
+157,Monroe2-OrleansBOCES,Monroe 2-Orleans BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/monroe-2orleans-boces
+158,MonroeCommunityCollege,Monroe Community College,New York,United States of America,https://www.bidnetdirect.com/new-york/monroe-community-college
+159,Monroe-WoodburyCSD,Monroe-Woodbury CSD,New York,United States of America,https://www.bidnetdirect.com/new-york/monroewoodburycsd
+160,MountVernonCitySchoolDistrict,Mount Vernon City School District,New York,United States of America,https://www.bidnetdirect.com/new-york/mount-vernon-city-school-district
+161,Mt.PleasantCentralSchoolDistrict,Mt. Pleasant Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/mountpleasantcsd
+162,NanuetUnionFreeSchoolDistrict,Nanuet Union Free School District,New York,United States of America,https://www.bidnetdirect.com/new-york/nanuet-union-free-school-district
+163,NewHackensackFireDistrict,New Hackensack Fire District,New York,United States of America,https://www.bidnetdirect.com/new-york/nkfd
+164,NewLebanonCentralSchoolDistrict,New Lebanon Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/newlebanoncsd
+165,NewYorkCity,New York City,New York,United States of America,https://www.bidnetdirect.com/new-york/new-york-city
+166,NewYorkConventionCenterOperatingCorp./JacobK.JavitsConventionCenter,New York Convention Center Operating Corp. / Jacob K. Javits Convention Center,New York,United States of America,https://www.bidnetdirect.com/new-york/javitscenter
+167,"NewYorkRacingAssociation,Inc.","New York Racing Association, Inc.",New York,United States of America,https://www.bidnetdirect.com/new-york/nyra
+168,NewburghEnlargedCitySchoolDistrict,Newburgh Enlarged City School District,New York,United States of America,https://www.bidnetdirect.com/new-york/newburghschools
+169,NiagaraCounty,Niagara County,New York,United States of America,https://www.bidnetdirect.com/new-york/niagaracounty
+170,NiskayunaCentralSchoolDistrict,Niskayuna Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/niskayunacentralschooldistrict
+171,NorthBabylonSchoolDistrict,North Babylon School District,New York,United States of America,https://www.bidnetdirect.com/new-york/north-babylon-school-district
+172,NorthEastCommunityCenter,North East Community Center,New York,United States of America,https://www.bidnetdirect.com/new-york/neccmillerton
+173,NorthSalemCentralSchoolDistrict,North Salem Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/northsalemcentralschooldistrict
+174,NorthernWestchesterJointWaterWorks,Northern Westchester Joint Water Works,New York,United States of America,https://www.bidnetdirect.com/new-york/northern-westchester-joint-water-works
+175,NyackPublicSchools,Nyack Public Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/nyack-public-schools
+176,OgdensburgBridgeandPortAuthority,Ogdensburg Bridge and Port Authority,New York,United States of America,https://www.bidnetdirect.com/new-york/ogdensburgbridgeandportauthority
+177,OneidaCounty,Oneida County,New York,United States of America,https://www.bidnetdirect.com/new-york/oneida-county
+178,OneontaCitySchoolDistrict,Oneonta City School District,New York,United States of America,https://www.bidnetdirect.com/new-york/oneonta-city-school-district
+179,OnondagaCounty,Onondaga County,New York,United States of America,https://www.bidnetdirect.com/new-york/onondaga-county
+180,Onondaga-Cortland-MadisonBOCES,Onondaga-Cortland-Madison BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/onondagacortlandmadison-boces
+181,OntarioCounty,Ontario County,New York,United States of America,https://www.bidnetdirect.com/new-york/ontario-county
+182,Orange-UlsterBoces,Orange - Ulster Boces,New York,United States of America,https://www.bidnetdirect.com/new-york/orange-ulster-boces
+183,OrangeCountyCommunityCollege,Orange County Community College,New York,United States of America,https://www.bidnetdirect.com/new-york/orange-county-community-college
+184,OrleansCounty,Orleans County,New York,United States of America,https://www.bidnetdirect.com/new-york/orleanscountyny
+185,Orleans/NiagaraBOCES,Orleans/Niagara BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/orleansniagara-boces
+186,"OswegoBOCES(CenterforInstruction,Technology&Innovation-CiTi)","Oswego BOCES (Center for Instruction, Technology & Innovation-CiTi)",New York,United States of America,https://www.bidnetdirect.com/new-york/oswegobocescenterforinstructiontechnologyinnovationciti
+187,OswegoCounty,Oswego County,New York,United States of America,https://www.bidnetdirect.com/new-york/oswegocounty
+188,OtsegoCounty,Otsego County,New York,United States of America,https://www.bidnetdirect.com/new-york/otsego-county
+189,PearlRiverSchoolDistrict,Pearl River School District,New York,United States of America,https://www.bidnetdirect.com/new-york/pearl-river-school-district
+190,PeekskillCitySchoolDistrict,Peekskill City School District,New York,United States of America,https://www.bidnetdirect.com/new-york/peekskill-city-school-district
+191,PenfieldCentralSchoolDistrict,Penfield Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/penfield-central-school-district
+192,PittsfordCentralSchoolDistrict,Pittsford Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/pittsford-central-school-district
+193,PortChesterIDA,Port Chester IDA,New York,United States of America,https://www.bidnetdirect.com/new-york/portchesternyida
+194,PortChester-RyeUnionFreeSchoolDistrict,Port Chester-Rye Union Free School District,New York,United States of America,https://www.bidnetdirect.com/new-york/port-chesterrye-union-free-school-district
+195,PortWashingtonUnionFreeSchoolDistrict,Port Washington Union Free School District,New York,United States of America,https://www.bidnetdirect.com/new-york/portnet
+196,PoughkeepsieFarmProject,Poughkeepsie Farm Project,New York,United States of America,https://www.bidnetdirect.com/new-york/pokfarmproject
+197,PoughkeepsiePublicLibraryDistrict,Poughkeepsie Public Library District,New York,United States of America,https://www.bidnetdirect.com/new-york/poughkeepsiepubli
+198,PutnamCounty,Putnam County,New York,United States of America,https://www.bidnetdirect.com/new-york/putnam-county
+199,PutnamNorthernWestchesterBOCES,Putnam Northern Westchester BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/putnam-northern-westchester-boces
+200,QueensPublicLibrary,Queens Public Library,New York,United States of America,https://www.bidnetdirect.com/new-york/queens-public-library
+201,QuestarIIIBOCES,Questar III BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/questar-iii-boces
+202,RamapoforChildren,Ramapo for Children,New York,United States of America,https://www.bidnetdirect.com/new-york/ramapoforchildren
+203,RedHookPublicLibrary,Red Hook Public Library,New York,United States of America,https://www.bidnetdirect.com/new-york/redhooklibrary
+204,RensselaerCounty,Rensselaer County,New York,United States of America,https://www.bidnetdirect.com/new-york/rensselaercounty
+205,RochesterCitySchoolDistrict,Rochester City School District,New York,United States of America,https://www.bidnetdirect.com/new-york/rochester-city-school-district
+206,RocklandBOCES,Rockland BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/rockland-boces
+207,RocklandCommunityCollege,Rockland Community College,New York,United States of America,https://www.bidnetdirect.com/new-york/rockland-community-college
+208,RocklandCountySolidWasteManagement,Rockland County Solid Waste Management,New York,United States of America,https://www.bidnetdirect.com/new-york/rockland-county-solid-waste-management
+209,RockvilleCentreSchoolDistrict,Rockville Centre School District,New York,United States of America,https://www.bidnetdirect.com/new-york/rvcschools
+210,RooseveltFireDistrictHydePark,Roosevelt Fire District Hyde Park,New York,United States of America,https://www.bidnetdirect.com/new-york/rooseveltfiredistrict
+211,RoslynPublicSchools,Roslyn Public Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/roslyn-public-schools
+212,Royalton-HartlandCSD,Royalton-Hartland CSD,New York,United States of America,https://www.bidnetdirect.com/new-york/royaltonhartland-csd
+213,RyeNeckSchools,Rye Neck Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/rye-neck-schools
+214,SachemCentralSchoolDistrict,Sachem Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/sachem-central-school-district
+215,SalamancaCityCentralSchoolDistrict,Salamanca City Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/salamancany
+216,SaratogaCounty,Saratoga County,New York,United States of America,https://www.bidnetdirect.com/new-york/saratoga-county
+217,ScarsdalePublicSchools,Scarsdale Public Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/scarsdalepublicschools
+218,ScenicHudson,Scenic Hudson,New York,United States of America,https://www.bidnetdirect.com/new-york/scenichudson
+219,SchenectadyCitySchoolDistrict,Schenectady City School District,New York,United States of America,https://www.bidnetdirect.com/new-york/schenectadyschools
+220,SchenectadyCounty,Schenectady County,New York,United States of America,https://www.bidnetdirect.com/new-york/schenectady-county
+221,SchenectadyMunicipalHousingAuthority,Schenectady Municipal Housing Authority,New York,United States of America,https://www.bidnetdirect.com/new-york/smha1
+222,SchuylerCounty,Schuyler County,New York,United States of America,https://www.bidnetdirect.com/new-york/schuyler-county
+223,Scotia-GlenvilleCentralSchoolDistrict,Scotia-Glenville Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/scotiaglenville-central-school-district
+224,SmithtownCentralSchoolDistrict,Smithtown Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/smithtownk12
+225,SouthHuntingtonUFSD,South Huntington UFSD,New York,United States of America,https://www.bidnetdirect.com/new-york/south-huntington-ufsd
+226,SouthOrangetownCentralSchoolDistrict,South Orangetown Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/south-orangetown-central-school-district
+227,SouthamptonUFSD,Southampton UFSD,New York,United States of America,https://www.bidnetdirect.com/new-york/southampton-ufsd
+228,Spencer-VanEttenCentralSchoolDistrict,Spencer-Van Etten Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/spencervan-etten-central-school-district
+229,SpringsUnionFreeSchoolDistrict,Springs Union Free School District,New York,United States of America,https://www.bidnetdirect.com/new-york/springs-union-free-school-district
+230,St.JohnFisherUniversity,St. John Fisher University,New York,United States of America,https://www.bidnetdirect.com/new-york/sjfu
+231,St.LawrenceCounty,St. Lawrence County,New York,United States of America,https://www.bidnetdirect.com/new-york/st-lawrence-county
+232,St.Mary'sSchoolfortheDeaf,St. Mary's School for the Deaf,New York,United States of America,https://www.bidnetdirect.com/new-york/smsdk12
+233,"StateAssociationofMunicipalPurchasingOfficials,Inc.","State Association of Municipal Purchasing Officials, Inc.",New York,United States of America,https://www.bidnetdirect.com/new-york/state-association-of-municipal-purchasing-officials-inc
+234,SuffernCentralSchoolDistrict,Suffern Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/ramapo-central-school-district
+235,SuffolkCounty,Suffolk County,New York,United States of America,https://www.bidnetdirect.com/new-york/suffolkcounty
+236,SuffolkCountyCommunityCollege,Suffolk County Community College,New York,United States of America,https://www.bidnetdirect.com/new-york/sunysuffolk
+237,SuffolkCountyWaterAuthority,Suffolk County Water Authority,New York,United States of America,https://www.bidnetdirect.com/new-york/suffolk-county-water-authority
+238,SuffolkRegionalOTB,Suffolk Regional OTB,New York,United States of America,https://www.bidnetdirect.com/new-york/suffolkregionalotb
+239,SullivanCounty,Sullivan County,New York,United States of America,https://www.bidnetdirect.com/new-york/sullivancounty
+240,SUNYSchenectadyCountyCommunityCollege,SUNY Schenectady County Community College,New York,United States of America,https://www.bidnetdirect.com/new-york/schenectady-county-community-college
+241,SUNYWestchesterCommunityCollege,SUNY Westchester Community College,New York,United States of America,https://www.bidnetdirect.com/new-york/sunywcc
+242,SUNYWestchesterCommunityCollege-PhysicalPlantDepartment,SUNY Westchester Community College - Physical Plant Department,New York,United States of America,https://www.bidnetdirect.com/new-york/sunywccphysicalplantdepartment
+243,TarrytownUFSD,Tarrytown UFSD,New York,United States of America,https://www.bidnetdirect.com/new-york/tarrytownufsd
+244,TheAgency-BroomeCountyIDA/LDC,The Agency - Broome County IDA/LDC,New York,United States of America,https://www.bidnetdirect.com/new-york/the-agency-broome-county-idaldc
+245,TheArcRockland,The Arc Rockland,New York,United States of America,https://www.bidnetdirect.com/new-york/the-arc-rockland
+246,TheArtEffect,The Art Effect,New York,United States of America,https://www.bidnetdirect.com/new-york/thearteffect
+247,ThreeVillageCentralSchoolDistrict,Three Village Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/three-village-central-school-district
+248,TompkinsConsolidatedAreaTransitInc.,Tompkins Consolidated Area Transit Inc.,New York,United States of America,https://www.bidnetdirect.com/new-york/tompkins-consolidated-area-transit-inc
+249,TompkinsCounty,Tompkins County,New York,United States of America,https://www.bidnetdirect.com/new-york/tompkins-county
+250,TownofAmenia,Town of Amenia,New York,United States of America,https://www.bidnetdirect.com/new-york/townofamenia
+251,TownofAmherst,Town of Amherst,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-amherst
+252,TownofBedford,Town of Bedford,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-bedford
+253,TownofBethlehem,Town of Bethlehem,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-bethlehem
+254,TownofCarmel,Town of Carmel,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-carmel
+255,TownofClarkstown,Town of Clarkstown,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-clarkstown
+256,TownofClinton,Town of Clinton,New York,United States of America,https://www.bidnetdirect.com/new-york/townofclinton
+257,TownofClintonHistoricalSociety,Town of Clinton Historical Society,New York,United States of America,https://www.bidnetdirect.com/new-york/clintonhistoricalsociety
+258,TownofColonie,Town of Colonie,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-colonie
+259,TownofColonieIndustrialDevelopmentAgency(IDA),Town of Colonie Industrial Development Agency (IDA),New York,United States of America,https://www.bidnetdirect.com/new-york/townofcolonieindustrialdevelopmentagencyida
+260,TownofCortlandt,Town of Cortlandt,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-cortlandt
+261,TownofDeRuyter,Town of DeRuyter,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-deruyter
+262,"TownofDover,NY","Town of Dover, NY",New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-dover
+263,TownofEastFishkill,Town of East Fishkill,New York,United States of America,https://www.bidnetdirect.com/new-york/eastfishkill
+264,TownofEastGreenbush,Town of East Greenbush,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-east-greenbush
+265,TownofEastchester,Town of Eastchester,New York,United States of America,https://www.bidnetdirect.com/new-york/townofeastchester
+266,TownofEsopus,Town of Esopus,New York,United States of America,https://www.bidnetdirect.com/new-york/townofesopus
+267,TownofGreenburgh,Town of Greenburgh,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-greenburgh
+268,TownofGuilderland,Town of Guilderland,New York,United States of America,https://www.bidnetdirect.com/new-york/townofguilderland
+269,TownofHalfmoon,Town of Halfmoon,New York,United States of America,https://www.bidnetdirect.com/new-york/townofhalfmoon
+270,TownofHydePark,Town of Hyde Park,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-hyde-park
+271,TownofIthaca,Town of Ithaca,New York,United States of America,https://www.bidnetdirect.com/new-york/townofithaca
+272,TownofLewisboro,Town of Lewisboro,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-lewisboro
+273,TownofMalta,Town of Malta,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-malta
+274,TownofMamaroneck,Town of Mamaroneck,New York,United States of America,https://www.bidnetdirect.com/new-york/townofmamaroneck
+275,TownofMarlborough,Town of Marlborough,New York,United States of America,https://www.bidnetdirect.com/new-york/townofmarlboroughny
+276,TownofMountHopeHighwayDepartment,Town of Mount Hope Highway Department,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-mount-hope-highway-department
+277,TownofNewCastle,Town of New Castle,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-new-castle
+278,TownofNewburgh,Town of Newburgh,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-newburgh
+279,TownofNiskayuna,Town of Niskayuna,New York,United States of America,https://www.bidnetdirect.com/new-york/townofniskayuna
+280,TownofNorthCastle,Town of North Castle,New York,United States of America,https://www.bidnetdirect.com/new-york/townofnorthcastle
+281,TownofNorthHempsteadCommunityDevelopmentAgency,Town of North Hempstead Community Development Agency,New York,United States of America,https://www.bidnetdirect.com/new-york/townofnorthhempsteadcda
+282,TownofNorthSalem,Town of North Salem,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-north-salem
+283,TownofOrangetown,Town of Orangetown,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-orangetown
+284,TownofOssining,Town of Ossining,New York,United States of America,https://www.bidnetdirect.com/new-york/townofossining
+285,TownofPenfield,Town of Penfield,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-penfield
+286,TownofPutnamValley,Town of Putnam Valley,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-putnam-valley
+287,TownofRamapo,Town of Ramapo,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-ramapo
+288,TownofRotterdam,Town of Rotterdam,New York,United States of America,https://www.bidnetdirect.com/new-york/townofrotterdam
+289,TownofRye,Town of Rye,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-rye
+290,TownofSandLake,Town of Sand Lake,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-sand-lake
+291,TownofSoutheast,Town of Southeast,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-southeast
+292,TownofStanford,Town of Stanford,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-stanford
+293,TownofStonyPoint,Town of Stony Point,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-stony-point
+294,TownofVestal,Town of Vestal,New York,United States of America,https://www.bidnetdirect.com/new-york/town-vestal
+295,TownofWallkill,Town of Wallkill,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-wallkill
+296,TownofWappinger,Town of Wappinger,New York,United States of America,https://www.bidnetdirect.com/new-york/townofwappinger
+297,TownofWashington,Town of Washington,New York,United States of America,https://www.bidnetdirect.com/new-york/townofwashington
+298,TownofYorktown,Town of Yorktown,New York,United States of America,https://www.bidnetdirect.com/new-york/town-of-yorktown
+299,Town/VillageofHarrison,Town/Village of Harrison,New York,United States of America,https://www.bidnetdirect.com/new-york/townvillage-of-harrison
+300,UlsterBOCES,Ulster BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/ulsterboces
+301,UlsterCountyCommunityCollege,Ulster County Community College,New York,United States of America,https://www.bidnetdirect.com/new-york/ulstercountycommunitycollege
+302,UlsterCountyResourceRecoveryAgency-(UCRRA),Ulster County Resource Recovery Agency - (UCRRA),New York,United States of America,https://www.bidnetdirect.com/new-york/ucrra
+303,UnionValeFireDistrict,Union Vale Fire District,New York,United States of America,https://www.bidnetdirect.com/new-york/uvfd
+304,ValleyStreamCentralHighSchoolDistrict,Valley Stream Central High School District,New York,United States of America,https://www.bidnetdirect.com/new-york/valleystreamcentralhighschooldistrict
+305,VillageofAmityville,Village of Amityville,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-amityville
+306,VillageofBrewster,Village of Brewster,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-brewster
+307,VillageofBriarcliffManor,Village of Briarcliff Manor,New York,United States of America,https://www.bidnetdirect.com/new-york/briarcliffmanor
+308,VillageofBrightwaters,Village of Brightwaters,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-brightwaters
+309,VillageofColdSpring,Village of Cold Spring,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-cold-spring
+310,VillageofCroton-on-Hudson,Village of Croton-on-Hudson,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-crotononhudson
+311,VillageofEastAurora,Village of East Aurora,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-east-aurora
+312,VillageofElmsford,Village of Elmsford,New York,United States of America,https://www.bidnetdirect.com/new-york/elmsfordny
+313,VillageofFairport,Village of Fairport,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-fairport
+314,VillageofGeneseo,Village of Geneseo,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-geneseo
+315,VillageofHastings-on-Hudson,Village of Hastings-on-Hudson,New York,United States of America,https://www.bidnetdirect.com/new-york/hastings-on-hudson
+316,VillageofMamaroneck,Village of Mamaroneck,New York,United States of America,https://www.bidnetdirect.com/new-york/villageofmamaroneck
+317,VillageofMillerton,Village of Millerton,New York,United States of America,https://www.bidnetdirect.com/new-york/villlageofmillerton
+318,VillageofMonroe,Village of Monroe,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-monroe
+319,VillageofNyack,Village of Nyack,New York,United States of America,https://www.bidnetdirect.com/new-york/villageofnyack
+320,VillageofOssining,Village of Ossining,New York,United States of America,https://www.bidnetdirect.com/new-york/villageofossining
+321,VillageofPhilmont,Village of Philmont,New York,United States of America,https://www.bidnetdirect.com/new-york/villageofphilmont
+322,VillageofPleasantville,Village of Pleasantville,New York,United States of America,https://www.bidnetdirect.com/new-york/villageofpleasantville
+323,VillageofPortChester,Village of Port Chester,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-port-chester
+324,VillageofRyeBrook,Village of Rye Brook,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-rye-brook
+325,VillageofScarsdale,Village of Scarsdale,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-scarsdale
+326,VillageofSleepyHollow,Village of Sleepy Hollow,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-sleepy-hollow
+327,VillageofSouthNyack,Village of South Nyack,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-south-nyack
+328,VillageofSuffern,Village of Suffern,New York,United States of America,https://www.bidnetdirect.com/new-york/suffernny
+329,VillageofTarrytown,Village of Tarrytown,New York,United States of America,https://www.bidnetdirect.com/new-york/villageoftarrytown
+330,VillageofTuckahoe,Village of Tuckahoe,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-tuckahoe
+331,VillageofWatkinsGlen,Village of Watkins Glen,New York,United States of America,https://www.bidnetdirect.com/new-york/villageofwatkinsglen
+332,VillageofWestHaverstraw,Village of West Haverstraw,New York,United States of America,https://www.bidnetdirect.com/new-york/village-of-west-haverstraw
+333,VoorheesvilleCentralSchools,Voorheesville Central Schools,New York,United States of America,https://www.bidnetdirect.com/new-york/voorheesville-central-schools
+334,VoorheesvillePublicLibrary,Voorheesville Public Library,New York,United States of America,https://www.bidnetdirect.com/new-york/voorheesvillepubliclibrary
+335,WarrenCounty,Warren County,New York,United States of America,https://www.bidnetdirect.com/new-york/warren-county
+336,WarwickValleyCentralSchoolDistrict,Warwick Valley Central School District,New York,United States of America,https://www.bidnetdirect.com/new-york/warwick-valley-central-school-district
+337,WashingtonCounty,Washington County,New York,United States of America,https://www.bidnetdirect.com/new-york/washington-county
+338,WassaicProject,Wassaic Project,New York,United States of America,https://www.bidnetdirect.com/new-york/wassaicproject
+339,WayneCounty,Wayne County,New York,United States of America,https://www.bidnetdirect.com/new-york/waynecountyny
+340,Wayne-FingerLakesBOCES,Wayne-Finger Lakes BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/waynefinger-lakes-boces
+341,WestBabylonSchoolDistrict,West Babylon School District,New York,United States of America,https://www.bidnetdirect.com/new-york/wbschools
+342,WestchesterCounty-PublicWorks,Westchester County - Public Works,New York,United States of America,https://www.bidnetdirect.com/new-york/westchester-county-public-works
+343,WestchesterCounty-Purchasing,Westchester County - Purchasing,New York,United States of America,https://www.bidnetdirect.com/new-york/westchester-county-purchasing
+344,WesternSuffolkBOCES,Western Suffolk BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/western-suffolk-boces
+345,WestmereFireDistrict,Westmere Fire District,New York,United States of America,https://www.bidnetdirect.com/new-york/westmere-fire-district
+346,WhitePlainsCitySchoolDistrict,White Plains City School District,New York,United States of America,https://www.bidnetdirect.com/new-york/white-plains-city-school-district
+347,WilliamFloydSchoolDistrict,William Floyd School District,New York,United States of America,https://www.bidnetdirect.com/new-york/william-floyd-school-district
+348,WSWHEBOCES,WSWHE BOCES,New York,United States of America,https://www.bidnetdirect.com/new-york/wswhe-boces
+349,YonkersParkingAuthority,Yonkers Parking Authority,New York,United States of America,https://www.bidnetdirect.com/new-york/yonkers-parking-authority
+350,ACETheaterFoundation,ACE Theater Foundation,Florida,United States of America,https://www.bidnetdirect.com/florida/acetheaterfoundation
+351,AlachuaCountyHousingAuthority,Alachua County Housing Authority,Florida,United States of America,https://www.bidnetdirect.com/florida/alachuacountyhousingauthority
+352,BalHarbourVillage,Bal Harbour Village,Florida,United States of America,https://www.bidnetdirect.com/florida/balharbourvillage
+353,BayCounty,Bay County,Florida,United States of America,https://www.bidnetdirect.com/florida/bay-county1
+354,Bethune-CookmanUniversity,Bethune-Cookman University,Florida,United States of America,https://www.bidnetdirect.com/florida/bethunecookmanuniversity
+355,CareerSourceTampaBay,CareerSource Tampa Bay,Florida,United States of America,https://www.bidnetdirect.com/florida/careersourcetampabay
+356,CityofAvonPark,City of Avon Park,Florida,United States of America,https://www.bidnetdirect.com/florida/cityofavonpark
+357,CityofBrooksville,City of Brooksville,Florida,United States of America,https://www.bidnetdirect.com/florida/cityofbrooksville
+358,CityofFortWaltonBeach,City of Fort Walton Beach,Florida,United States of America,https://www.bidnetdirect.com/florida/city-of-fort-walton-beach
+359,CityofHialeah,City of Hialeah,Florida,United States of America,https://www.bidnetdirect.com/florida/cityofhialeah
+360,CityofMaryEsther,City of Mary Esther,Florida,United States of America,https://www.bidnetdirect.com/florida/city-of-mary-esther
+361,CityofMiamiBeach,City of Miami Beach,Florida,United States of America,https://www.bidnetdirect.com/florida/city-of-miami-beach
+362,CityofMilton,City of Milton,Florida,United States of America,https://www.bidnetdirect.com/florida/city-of-milton
+363,CityofOcala,City of Ocala,Florida,United States of America,https://www.bidnetdirect.com/florida/cityofocala
+364,CityofPensacola,City of Pensacola,Florida,United States of America,https://www.bidnetdirect.com/florida/city-of-pensacola
+365,CityofPortRichey,City of Port Richey,Florida,United States of America,https://www.bidnetdirect.com/florida/city-of-port-richey
+366,CityofSarasota,City of Sarasota,Florida,United States of America,https://www.bidnetdirect.com/florida/city-of-sarasota
+367,CityofZephyrhills,City of Zephyrhills,Florida,United States of America,https://www.bidnetdirect.com/florida/cityofzephyrhills
+368,DaytonaStateCollege,Daytona State College,Florida,United States of America,https://www.bidnetdirect.com/florida/daytonastatecollege
+369,EarlyLearningCoalitionofOrangeCounty,Early Learning Coalition of Orange County,Florida,United States of America,https://www.bidnetdirect.com/florida/elcoforangecounty
+370,EmeraldCoastUtilitiesAuthority,Emerald Coast Utilities Authority,Florida,United States of America,https://www.bidnetdirect.com/florida/emeraldcoastutilitiesauthority
+371,EscambiaCountySchoolDistrict,Escambia County School District,Florida,United States of America,https://www.bidnetdirect.com/florida/escambia-county-school-district
+372,EscambiaCountySchoolDistrictFacilitiesDepartment,Escambia County School District Facilities Department,Florida,United States of America,https://www.bidnetdirect.com/florida/ecsd_facscplan
+373,FairchildTropicalBotanicGarden,Fairchild Tropical Botanic Garden,Florida,United States of America,https://www.bidnetdirect.com/florida/fairchildgarden
+374,FloridaSouthWesternStateCollege,Florida SouthWestern State College,Florida,United States of America,https://www.bidnetdirect.com/florida/floridasouthwestern
+375,FortMyersBeachFireControlDistrict,Fort Myers Beach Fire Control District,Florida,United States of America,https://www.bidnetdirect.com/florida/fortmyersbeach
+376,GainesvilleHousingAuthority,Gainesville Housing Authority,Florida,United States of America,https://www.bidnetdirect.com/florida/gainesvillehousingauthority
+377,GulfCoastStateCollege,Gulf Coast State College,Florida,United States of America,https://www.bidnetdirect.com/florida/gulfcoaststatecollege
+378,HernandoCountyBOCC,Hernando County BOCC,Florida,United States of America,https://www.bidnetdirect.com/florida/hernando-county-board-of-county-commissioners
+379,HernandoCountySchoolDistrict,Hernando County School District,Florida,United States of America,https://www.bidnetdirect.com/florida/hernandoschools
+380,"Holley-NavarreWaterSystem,Inc.","Holley-Navarre Water System, Inc.",Florida,United States of America,https://www.bidnetdirect.com/florida/holleynavarrewatersysteminc
+381,IndianRiverMosquitoControlDistrict,Indian River Mosquito Control District,Florida,United States of America,https://www.bidnetdirect.com/florida/indianrivermosquitocontrol
+382,IndianRiverStateCollege,Indian River State College,Florida,United States of America,https://www.bidnetdirect.com/florida/indianriverstatecollege
+383,JacksonCounty,Jackson County,Florida,United States of America,https://www.bidnetdirect.com/florida/jackson-county
+384,LakewoodRanchInter-DistrictAuthority/TownHall,Lakewood Ranch Inter-District Authority/Town Hall,Florida,United States of America,https://www.bidnetdirect.com/florida/lwr-ida
+385,LutheranServicesFlorida,Lutheran Services Florida,Florida,United States of America,https://www.bidnetdirect.com/florida/lutheranservicesflorida
+386,MiamiBeachVisitorandConventionAuthority,Miami Beach Visitor and Convention Authority,Florida,United States of America,https://www.bidnetdirect.com/florida/miami-beach-visitor-and-convention-authority
+387,MiamiDadeCollege,Miami Dade College,Florida,United States of America,https://www.bidnetdirect.com/florida/miamidadecollege
+388,NorthwestFloridaStateCollege,Northwest Florida State College,Florida,United States of America,https://www.bidnetdirect.com/florida/northwestfloridastatecollege
+389,OkaloosaCounty,Okaloosa County,Florida,United States of America,https://www.bidnetdirect.com/florida/okaloosa-county
+390,OkaloosaCountySchoolDistrict,Okaloosa County School District,Florida,United States of America,https://www.bidnetdirect.com/florida/okaloosa-county-school-district
+391,OkaloosaGasDistrict,Okaloosa Gas District,Florida,United States of America,https://www.bidnetdirect.com/florida/okaloosa-gas-district
+392,PAECFloridaBuy,PAEC Florida Buy,Florida,United States of America,https://www.bidnetdirect.com/florida/paec-cooperative-state-purchasing
+393,PascoCountyBoardofCountyCommissioners,Pasco County Board of County Commissioners,Florida,United States of America,https://www.bidnetdirect.com/florida/pasco-county-board-of-county-commissioners
+394,Pasco-HernandoStateCollege,Pasco-Hernando State College,Florida,United States of America,https://www.bidnetdirect.com/florida/pascohernandostatecollege
+395,PensacolaStateCollege,Pensacola State College,Florida,United States of America,https://www.bidnetdirect.com/florida/pensacolastatecollege
+396,PolkStateCollege,Polk State College,Florida,United States of America,https://www.bidnetdirect.com/florida/polkstatecollege
+397,SantaFeCollege,Santa Fe College,Florida,United States of America,https://www.bidnetdirect.com/florida/santafecollege
+398,SantaRosaCountySchoolBoard,Santa Rosa County School Board,Florida,United States of America,https://www.bidnetdirect.com/florida/santa-rosa-county-school-board
+399,SantaRosaCountySheriff'sOffice,Santa Rosa County Sheriff's Office,Florida,United States of America,https://www.bidnetdirect.com/florida/santa-rosa-county-sheriffs-office
+400,SantaRosaIslandAuthority,Santa Rosa Island Authority,Florida,United States of America,https://www.bidnetdirect.com/florida/santarosaislandauthority
+401,SarasotaCountySheriff'sOffice,Sarasota County Sheriff's Office,Florida,United States of America,https://www.bidnetdirect.com/florida/sarasotacountysheriffsoffice
+402,SeminoleStateCollegeofFlorida,Seminole State College of Florida,Florida,United States of America,https://www.bidnetdirect.com/florida/seminolestatecollegeofflorida
+403,SeminoleTribeofFlorida,Seminole Tribe of Florida,Florida,United States of America,https://www.bidnetdirect.com/florida/seminoletribeofflorida
+404,St.PetersburgCollege,St. Petersburg College,Florida,United States of America,https://www.bidnetdirect.com/florida/stpetersburgcollege
+405,TallahasseeHousingAuthority,Tallahassee Housing Authority,Florida,United States of America,https://www.bidnetdirect.com/florida/tallahasseehousingauthority
+406,TaylorCountyDistrictSchools,Taylor County District Schools,Florida,United States of America,https://www.bidnetdirect.com/florida/taylor-county-district-schools
+407,TheTownofLakePlacid,The Town of Lake Placid,Florida,United States of America,https://www.bidnetdirect.com/florida/townoflakeplacid
+408,Titusville-CocoaAirportAuthority,Titusville-Cocoa Airport Authority,Florida,United States of America,https://www.bidnetdirect.com/florida/titusvillecocoaairportauthority
+409,UniversityofWestFlorida,University of West Florida,Florida,United States of America,https://www.bidnetdirect.com/florida/university-of-west-florida
+410,VillageofKeyBiscayne,Village of Key Biscayne,Florida,United States of America,https://www.bidnetdirect.com/florida/villageofkeybiscayne
+411,VizcayaMuseum&Gardens,Vizcaya Museum & Gardens,Florida,United States of America,https://www.bidnetdirect.com/florida/vizcayamuseumandgardens
+412,WaltonCountyBoardofCommissioners,Walton County Board of Commissioners,Florida,United States of America,https://www.bidnetdirect.com/florida/waltoncountyboardofcommissioners
+413,BerkeleyTownshipSewerageAuthority,Berkeley Township Sewerage Authority,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/berkeley-sewerage-authority
+414,BoroughofAlpha,Borough of Alpha,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/alphaborough
+415,BoroughofCaldwell,Borough of Caldwell,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/caldwellnj
+416,BoroughofFairHaven,Borough of Fair Haven,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/fairhavennj
+417,BoroughofJamesburg,Borough of Jamesburg,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/jamesburgboro
+418,BoroughofLincolnPark,Borough of Lincoln Park,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/borough-of-lincoln-park
+419,BoroughofMadison,Borough of Madison,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/borough-of-madison
+420,BoroughofMidlandPark,Borough of Midland Park,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/midlandparknj
+421,BoroughofMilltown,Borough of Milltown,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/boroofmilltown
+422,BoroughofRamsey,Borough of Ramsey,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/ramseynj
+423,BoroughofRockaway,Borough of Rockaway,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/borough-of-rockaway
+424,BoroughofSaddleRiver,Borough of Saddle River,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/boroughofsaddleriver
+425,BoroughofSeasidePark,Borough of Seaside Park,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/seasidepark
+426,BoroughofSussex,Borough of Sussex,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/sussexboro
+427,BoroughofWaldwick,Borough of Waldwick,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/boroughofwaldwick
+428,CityofCapeMay,City of Cape May,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/capemaycity
+429,CityofEnglewood,City of Englewood,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/englewood
+430,ColtsNeckTownship,Colts Neck Township,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/coltsnecktownship
+431,EastAmwellTownship,East Amwell Township,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/eastamwelltownship
+432,EdgeMarket,EdgeMarket,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/edgemarket
+433,EdisonHousingAuthority,Edison Housing Authority,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/edisonha
+434,GreenTownship,Green Township,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/greentwp
+435,HopatcongBorough,Hopatcong Borough,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/hopatcongboro
+436,HopewellTownshipFireDistrictNo.1,Hopewell Township Fire District No. 1,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/hopewelltwpfire
+437,HousingAuthorityofBergenCounty,Housing Authority of Bergen County,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/habcnj
+438,HowellTownship,Howell Township,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/twphowell
+439,LongBranchHousingAuthority,Long Branch Housing Authority,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/lbha
+440,Madison-ChathamJointMeeting,Madison-Chatham Joint Meeting,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/madisonchatham-joint-meeting
+441,ManchesterTownship,Manchester Township,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/manchestertwp
+442,MercerCounty,Mercer County,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/mercercounty
+443,MonmouthCountyMunicipalJointInsuranceFund,Monmouth County Municipal Joint Insurance Fund,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/monmouthcountyjif
+444,MorrisCounty,Morris County,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/morris-county
+445,MorrisCountyHousingAuthority,Morris County Housing Authority,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/morris-county-housing-authority
+446,MorrisCountyImprovementAuthority,Morris County Improvement Authority,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/morriscountyimprovementauthority
+447,MorrisCountyMunicipalUtilitiesAuthority,Morris County Municipal Utilities Authority,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/morris-county-municipal-utilities-authority
+448,MorrisCountyParkCommission,Morris County Park Commission,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/morris-county-park-commission
+449,Morris-Sussex-WarrenWorkforceDevelopmentBoard,Morris-Sussex-Warren Workforce Development Board,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/morrissussexwarrenworkforce
+450,Mt.OliveTownship,Mt. Olive Township,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/mt-olive-township
+451,MunicipalExcessLiabilityJointInsuranceFund,Municipal Excess Liability Joint Insurance Fund,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/meljif
+452,MunicipalReinsuranceHealthInsuranceFund,Municipal Reinsurance Health Insurance Fund,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/mrhif
+453,NewJerseyCyberRiskManagementFund,New Jersey Cyber Risk Management Fund,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/njcyberjif
+454,NewJerseyMunicipalEnvironmentalRiskManagementFund,New Jersey Municipal Environmental Risk Management Fund,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/ejif
+455,NewJerseySustainableEnergyJointMeeting,New Jersey Sustainable Energy Joint Meeting,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/njsem
+456,NJPurchasing,NJPurchasing,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/njpurchasing
+457,OceanCountyJointInsuranceFund,Ocean County Joint Insurance Fund,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/oceancountyjif
+458,RobbinsvilleTownship,Robbinsville Township,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/robbinsville-twp
+459,SouthBergenJIF,South Bergen JIF,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/southbergenjif
+460,SouthOrangeMaplewoodSchoolDistrict,South Orange Maplewood School District,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/somsdnj
+461,SuburbanMetroJointInsuranceFund,Suburban Metro Joint Insurance Fund,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/suburbanmetrojif
+462,TheCanningGroup,The Canning Group,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/thecanninggroup
+463,TownofNewton,Town of Newton,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/townofnewton
+464,TownshipofDenville,Township of Denville,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/township-of-denville
+465,TownshipofEggHarbor,Township of Egg Harbor,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/ehtgov
+466,TownshipofHopewell,Township of Hopewell,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/townshipofhopewell
+467,TownshipofJefferson,Township of Jefferson,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/township-of-jefferson
+468,TownshipofMorris,Township of Morris,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/township-of-morris
+469,TownshipofRandolph,Township of Randolph,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/township-of-randolph
+470,TownshipofVerona,Township of Verona,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/townshipofverona
+471,TownshipofWoodbridge,Township of Woodbridge,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/twpwoodbridge
+472,VernonTownship,Vernon Township,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/vernontownship
+473,WestfieldPublicSchools,Westfield Public Schools,New Jersey,United States of America,https://www.bidnetdirect.com/new-jersey/westfieldnjk12
+474,BexarCounty,Bexar County,Texas,United States of America,https://www.bidnetdirect.com/texas/bexar-county
+475,BexarMetropolitanWaterDistrict,Bexar Metropolitan Water District,Texas,United States of America,https://www.bidnetdirect.com/texas/bexar-metropolitan-water-district
+476,BobHopeSchool,Bob Hope School,Texas,United States of America,https://www.bidnetdirect.com/texas/bobhopeschool
+477,BrownsvilleCommunityHealthCenter,Brownsville Community Health Center,Texas,United States of America,https://www.bidnetdirect.com/texas/brownsville-community-health-center
+478,CameronCounty,Cameron County,Texas,United States of America,https://www.bidnetdirect.com/texas/cameron-county
+479,CityofBalchSprings,City of Balch Springs,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-balch-springs
+480,CityofBayCity,City of Bay City,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-bay-city
+481,CityofBuda,City of Buda,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-buda
+482,CityofCedarPark,City of Cedar Park,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-cedar-park
+483,CityofFredericksburg,City of Fredericksburg,Texas,United States of America,https://www.bidnetdirect.com/texas/fbgtx
+484,CityofHutto,City of Hutto,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-hutto
+485,CityofIowaPark,City of Iowa Park,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-iowa-park
+486,CityofJerseyVillage,City of Jersey Village,Texas,United States of America,https://www.bidnetdirect.com/texas/cityofjerseyvillage
+487,CityofLaMarque,City of La Marque,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-la-marque
+488,CityofLagoVista,City of Lago Vista,Texas,United States of America,https://www.bidnetdirect.com/texas/lagovista
+489,CityofLeander,City of Leander,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-leander
+490,CityofMountPleasant,City of Mount Pleasant,Texas,United States of America,https://www.bidnetdirect.com/texas/mpcity
+491,CityofNewBraunfels,City of New Braunfels,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-new-braunfels
+492,CityofPflugerville,City of Pflugerville,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-pflugerville
+493,CityofSanMarcos,City of San Marcos,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-san-marcos
+494,CityofSulphurSprings,City of Sulphur Springs,Texas,United States of America,https://www.bidnetdirect.com/texas/cityofsulphursprings
+495,CityofSunsetValley,City of Sunset Valley,Texas,United States of America,https://www.bidnetdirect.com/texas/sunsetvalley
+496,CityofTaylor,City of Taylor,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-taylor
+497,CityofVictoria,City of Victoria,Texas,United States of America,https://www.bidnetdirect.com/texas/city-of-victoria
+498,CityofWeslaco,City of Weslaco,Texas,United States of America,https://www.bidnetdirect.com/texas/cityofweslaco
+499,ComalCounty,Comal County,Texas,United States of America,https://www.bidnetdirect.com/texas/comalcounty
+500,ComalIndependentSchoolDistrict,Comal Independent School District,Texas,United States of America,https://www.bidnetdirect.com/texas/comal-independent-school-district
+501,DallasCounty,Dallas County,Texas,United States of America,https://www.bidnetdirect.com/texas/dallas-county
+502,EdgewoodIndependentSchoolDistrict,Edgewood Independent School District,Texas,United States of America,https://www.bidnetdirect.com/texas/edgewoodindependentschooldistrict
+503,EdwardsAquiferAuthority,Edwards Aquifer Authority,Texas,United States of America,https://www.bidnetdirect.com/texas/edwardsaquiferauthority
+504,FloresvilleElectricLight&PowerSystem,Floresville Electric Light & Power System,Texas,United States of America,https://www.bidnetdirect.com/texas/floresville-electric-light-power-system
+505,GeorgetownIndependentSchoolDistrict,Georgetown Independent School District,Texas,United States of America,https://www.bidnetdirect.com/texas/georgetown-independent-school-district
+506,GuadalupeCounty,Guadalupe County,Texas,United States of America,https://www.bidnetdirect.com/texas/guadalupecounty
+507,Guadalupe-BlancoRiverAuthority,Guadalupe-Blanco River Authority,Texas,United States of America,https://www.bidnetdirect.com/texas/guadalupeblancoriverau
+508,HarlingenWaterworksSystem,Harlingen Waterworks System,Texas,United States of America,https://www.bidnetdirect.com/texas/harlingenwaterworkssystem
+509,HaysCounty,Hays County,Texas,United States of America,https://www.bidnetdirect.com/texas/hayscounty
+510,HuttoISD,Hutto ISD,Texas,United States of America,https://www.bidnetdirect.com/texas/huttoindependentschooldistrict
+511,LagunaMadreWaterDistrict,Laguna Madre Water District,Texas,United States of America,https://www.bidnetdirect.com/texas/lagunamadrewaterdistrict
+512,Lavaca-NavidadRiverAuthority,Lavaca-Navidad River Authority,Texas,United States of America,https://www.bidnetdirect.com/texas/lavacanavidadriverauthority
+513,ManorIndependentSchoolDistrict,Manor Independent School District,Texas,United States of America,https://www.bidnetdirect.com/texas/manor-independent-school-district
+514,MontgomeryCounty,Montgomery County,Texas,United States of America,https://www.bidnetdirect.com/texas/montgomery-county
+515,PflugervilleIndependentSchoolDistrict,Pflugerville Independent School District,Texas,United States of America,https://www.bidnetdirect.com/texas/pflugerville-independent-school-district
+516,PortofBrownsville,Port of Brownsville,Texas,United States of America,https://www.bidnetdirect.com/texas/portofbrownsville
+517,PotterCounty,Potter County,Texas,United States of America,https://www.bidnetdirect.com/texas/potter-county
+518,RockwallCounty,Rockwall County,Texas,United States of America,https://www.bidnetdirect.com/texas/rockwallcounty
+519,SanAntonioIndependentSchoolDistrict,San Antonio Independent School District,Texas,United States of America,https://www.bidnetdirect.com/texas/san-antonio-independent-school-district
+520,SanAntonioRiverAuthority,San Antonio River Authority,Texas,United States of America,https://www.bidnetdirect.com/texas/san-antonio-river-authority
+521,SanMarcosC.I.S.D.,San Marcos C.I.S.D.,Texas,United States of America,https://www.bidnetdirect.com/texas/san-marcos-cisd
+522,SeguinIndependentSchoolDistrict,Seguin Independent School District,Texas,United States of America,https://www.bidnetdirect.com/texas/seguinindependentschooldistrict
+523,SouthSanAntonioISD,South San Antonio ISD,Texas,United States of America,https://www.bidnetdirect.com/texas/south-san-antonio-isd
+524,SouthsideISD,Southside ISD,Texas,United States of America,https://www.bidnetdirect.com/texas/southside
+525,SouthwestKeyPrograms,Southwest Key Programs,Texas,United States of America,https://www.bidnetdirect.com/texas/swkey
+526,St.Gabriels'sCatholicSchool,St. Gabriels's Catholic School,Texas,United States of America,https://www.bidnetdirect.com/texas/stgabrielsscatholicschool
+527,TexasA&MUniversity-SanAntonio,Texas A&M University - San Antonio,Texas,United States of America,https://www.bidnetdirect.com/texas/texasamuniversitysanantonio
+528,TexasPublicPurchasingAssociation,Texas Public Purchasing Association,Texas,United States of America,https://www.bidnetdirect.com/texas/texas-public-purchasing-association
+529,TexasWoman'sUniversity,Texas Woman's University,Texas,United States of America,https://www.bidnetdirect.com/texas/twu
+530,UniversityofTexasatArlington,University of Texas at Arlington,Texas,United States of America,https://www.bidnetdirect.com/texas/uta
+531,UpperBrushyCreekWCID,Upper Brushy Creek WCID,Texas,United States of America,https://www.bidnetdirect.com/texas/upperbrushycreekwcid
+532,CherokeeCounty,Cherokee County,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cherokeecounty
+533,CityofDouglasville,City of Douglasville,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofdouglasville
+534,CityofEastPoint,City of East Point,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofeastpoint
+535,CityofFairburn,City of Fairburn,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityoffairburn
+536,CityofForestPark,City of Forest Park,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofforestpark
+537,CityofKennesaw,City of Kennesaw,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofkennesaw
+538,CityofMorrow,City of Morrow,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofmorrow
+539,CityofRiverdale,City of Riverdale,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofriverdale
+540,CityofRome,City of Rome,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofrome
+541,"CityofSouthFulton,GA","City of South Fulton, GA",Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofsouthfulton
+542,CityofStonecrest,City of Stonecrest,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofstonecrest
+543,ClaytonCounty,Clayton County,Georgia,United States of America,https://www.bidnetdirect.com/georgia/claytoncounty
+544,CobbCounty,Cobb County,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cobbcounty
+545,DouglasCounty,Douglas County,Georgia,United States of America,https://www.bidnetdirect.com/georgia/douglascounty
+546,DrewCharterSchool,Drew Charter School,Georgia,United States of America,https://www.bidnetdirect.com/georgia/drewcharterschool
+547,FayetteCountyPublicSchoolDistrict,Fayette County Public School District,Georgia,United States of America,https://www.bidnetdirect.com/georgia/fayettecountyschools
+548,"Fayetteville,Cityof","Fayetteville, City of",Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityoffayetteville
+549,FultonCountyGovernment,Fulton County Government,Georgia,United States of America,https://www.bidnetdirect.com/georgia/fultoncounty
+550,HallCounty,Hall County,Georgia,United States of America,https://www.bidnetdirect.com/georgia/hallcounty
+551,HenryCountyWaterAuthority,Henry County Water Authority,Georgia,United States of America,https://www.bidnetdirect.com/georgia/henrycountywaterauthority
+552,SavannahAirportCommission,Savannah Airport Commission,Georgia,United States of America,https://www.bidnetdirect.com/georgia/savannahairportcommission
+553,SouthGeorgiaGovernmentalServicesAuthority,South Georgia Governmental Services Authority,Georgia,United States of America,https://www.bidnetdirect.com/georgia/sggsa
+554,SouthernGeorgiaRegionalCommission,Southern Georgia Regional Commission,Georgia,United States of America,https://www.bidnetdirect.com/georgia/sgrc
+555,TheCityofDunwoody,The City of Dunwoody,Georgia,United States of America,https://www.bidnetdirect.com/georgia/dunwoody
+556,TheCityofJohnsCreek,The City of Johns Creek,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofjohnscreek
+557,TheCityofMilton,The City of Milton,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofmilton
+558,TheCityofNelson,The City of Nelson,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofnelson
+559,TheCityofSmyrna,The City of Smyrna,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityofsmyrna
+560,TheCityofTucker,The City of Tucker,Georgia,United States of America,https://www.bidnetdirect.com/georgia/cityoftucker
+561,UnionCity,Union City,Georgia,United States of America,https://www.bidnetdirect.com/georgia/unioncity
